@@ -34,7 +34,7 @@ a- Go back to the parent folder GEM-FISH
     
 b- Run the m-file 'final_model_chr21.m'. This will calculate the final 3D model of the chromosome investigated (Chr21 in our case)
     
-c- The final 3D structure is written in the file 'final_model.txt' in the GEM_FISH folder
+c- The final 3D structure is written to './Chr21_modeling_results/final_model_chr21.txt'
 
 =================================================================================
 
