@@ -6,13 +6,11 @@ Ahmed Abbas, Xuan He, Bin Zhou, Guangxiang Zhu, Zishan Ma, Jun-Tao Gao, Michael 
 
 Installation
 
-1- Create a folder and let its name "GEM-FISH" 
+1- Download the program and extract it to the folder "GEM-FISH-master" 
 
-2- Put all the Matlab scripts in the folder GEM-FISH 
+2- Extract the two zip files "GEM-FISH_TAD-conformations.zip" and "GEM-FISH_TAD-level-resolution.zip" in the folder GEM-FISH-master 
 
-3- Extract the two zip files "GEM-FISH_TAD-conformations.zip" and "GEM-FISH_TAD-level-resolution.zip" in the folder GEM-FISH 
-
-4- Add GEM-FISH to your Matlab path
+3- Add GEM-FISH-master to your Matlab path
 
 Example for usage:
 
@@ -30,7 +28,7 @@ b- Run the m-file 'get_locals_chr21_Rao.m'. This will calculate the intra-TAD co
 
 3- Calculate the final 3D model of the chromosome
 
-a- Go back to the parent folder GEM-FISH
+a- Go back to the parent folder GEM-FISH-master
     
 b- Run the m-file 'final_model_chr21.m'. This will calculate the final 3D model of the chromosome investigated (Chr21 in our case)
     
